@@ -9,10 +9,13 @@ date: 2023/05/29
 
 vue-okr-tree使用遇到报错问题解决办法。
 
-:::tip 报错解决办法
+```
+
 1.  我从`vue-okr-tree`把组件单独提取出来使用,不经过`npm`安装,使用步骤如下。
-2.  在[github][]仓库	`clone`或`下载`会得到`vue-okr-tree`文件夹,放到`src/components`目录下。
-:::
+2.  在  `github`仓库`clone`或`下载`会得到`vue-okr-tree`文件夹,放到`src/components`目录下。
+
+```
+[github][]
 [github]: https://github.com/kuikui2/vue-okr-tree.git
 
 > 例子
